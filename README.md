@@ -1,6 +1,5 @@
 # Hi there, This is Shoaib Rahman Rian 👋
-
-🎓 Computer Science & Engineering Student  
+  
 💻 Full-Stack JavaScript Developer (MERN Stack) | Proficient in Building End-to-End Web Applications 
 🏍️ Rider | Travel Enthusiast | Fitness Enthusiast
 
